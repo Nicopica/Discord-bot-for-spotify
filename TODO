@@ -64,3 +64,4 @@ roles to every composer to only see that channel
 sort by playlist 🟩
 update gui 🟩
 Sort channels alphabetically and tracks too
+move .env files to asame directory
