@@ -1,0 +1,66 @@
+show results with photo (option), title
+let choose quality / mp3 / mp4 🟩
+volume regulator e.g. db * ( desired_max_db / max_db)
+strip beginning if db > threshold: strip 🟩
+score results, smart selection???
+directory creator 🟩
+rename files
+input list compositions
+directories, file existing or no
+AI to take away applause
+make gui pretty
+make gui interface adaptable
+checkbox to enable / disable features
+setting volume of music
+discard result if length over threshold
+calculate done percentage
+
+read list music 🟩
+search 🟩
+folder 🟩
+convert mono
+add download options:
+change name to spotify
+allow select format
+allow use algorithms sound
+allow select by length interval
+silence remover
+combine discord and audio cleaner
+no need to create txt file 🟩
+simultaneous download
+
+SPOTIFY IMPLEMENTATION
+read liked songs of specific user🟩
+sort songs by author 🟩
+choose authors + unsorted 🟩
+upload full list in separated discord channels 🟩
+choose search method, Spotify or Youtube
+if possible download method to spotify
+
+show preview 🟩
+link to listen 🟩
+offer random information
+publish photo 🟩
+request any data from any song/author
+store data online
+
+discord category 🟩
+commands to add / update channel 🟩
+help menu 🟩
+icon
+create quizzes of classical music
+sort tracks by containing words like symphony, sonata, quartet... 🟩
+composer list to avoid non composers 🟩
+avoid hardcoded,use os.path 🟩
+fix Unexpected renderer encountered. Renderer name: dict_keys(['reelShelfRenderer'])
+use asyncio to get tracks from spotify api faster 🟩
+convert to short links faster 🟩 not used anymore
+use multi threading to download faster
+DON'T BLOCK DISCORD BOT WHILE DOING STUFF! WARNING  discord.gateway Shard ID None heartbeat blocked for more than 10 seconds. 🟩
+delete message recieved after a few seconds 🟩
+change metadata files to show author, genre, length...
+download all command
+roles to every composer to only see that channel
+sort by playlist 🟩
+update gui 🟩
+Sort channels alphabetically and tracks too
